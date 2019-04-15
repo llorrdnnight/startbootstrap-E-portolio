@@ -9,5 +9,61 @@
     color: green;
     font-weight: bold;
     text-decoration: underline;
-    
+
+}
+/*
+.portfolio_art{
+  grid-area: content;
+  padding: 10%;
+  background-color: #20bf6b;
+}
+*/
+
+#port_1{
+  grid-area: port_1;
+  padding: 10%;
+  background-color: #20bf6b;
+}
+#port_2{
+  grid-area: port_2;
+  padding: 10%;
+  background-color: #20bf6b;
+}
+#port_3{
+  grid-area: port_3;
+  padding: 10%;
+  background-color: #20bf6b;
+}
+#port_4{
+  grid-area: port_4;
+  padding: 10%;
+  background-color: #20bf6b;
+}
+#port_5{
+  grid-area: port_5;
+  padding: 10%;
+  background-color: #20bf6b;
+}
+#port_6{
+  grid-area: port_6;
+  padding: 10%;
+  background-color: #20bf6b;
+}
+#port_7{
+  grid-area: port_7;
+  padding: 10%;
+  background-color: #20bf6b;
+}
+
+.wrapper {
+  display: grid;
+  grid-gap: 20px;
+  /*
+  grid-template-columns: 3fr 3fr;
+  */
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-areas:
+    "port_1  port_2 port_3"
+    "port_4 port_5 port_6"
+    "port_7  port_7 port_7";
 }
