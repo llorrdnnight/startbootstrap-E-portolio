@@ -190,3 +190,11 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.download{
+    font-size: 120%;
+    color: green;
+    font-weight: bold;
+    text-decoration: underline;
+    
+}
