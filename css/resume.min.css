@@ -22,37 +22,37 @@
 #port_1{
   grid-area: port_1;
   padding: 10%;
-  background-color: #20bf6b;
+  background-color: #cccccc;
 }
 #port_2{
   grid-area: port_2;
   padding: 10%;
-  background-color: #20bf6b;
+  background-color: #cccccc;
 }
 #port_3{
   grid-area: port_3;
   padding: 10%;
-  background-color: #20bf6b;
+  background-color: #cccccc;
 }
 #port_4{
   grid-area: port_4;
   padding: 10%;
-  background-color: #20bf6b;
+  background-color: #cccccc;
 }
 #port_5{
   grid-area: port_5;
   padding: 10%;
-  background-color: #20bf6b;
+  background-color: #cccccc;
 }
 #port_6{
   grid-area: port_6;
   padding: 10%;
-  background-color: #20bf6b;
+  background-color: #cccccc;
 }
 #port_7{
   grid-area: port_7;
   padding: 10%;
-  background-color: #20bf6b;
+  background-color: #cccccc;
 }
 
 .wrapper {
