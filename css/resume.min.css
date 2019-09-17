@@ -55,6 +55,12 @@
   background-color: #cccccc;
 }
 
+#port_8{
+  grid-area: port_7;
+  padding: 10%;
+  background-color: #cccccc;
+}
+
 .wrapper {
   display: grid;
   grid-gap: 20px;
@@ -65,5 +71,5 @@
   grid-template-areas:
     "port_1  port_2 port_3"
     "port_4 port_5 port_6"
-    "port_7  port_7 port_7";
+    "port_7  port_7 port_8";
 }
